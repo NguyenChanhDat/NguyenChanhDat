@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @NguyenChanhDat
 - 👀 I’m interested in Coding, Football, Going to the Gym
-- 🌱 I’m currently learning Software Engineer
+- 🌱 I’m currently studying at Da Nang University of Science and Technology
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : below my profile's image
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm taller than how I look in the image :)))
 
 <!---
 NguyenChanhDat/NguyenChanhDat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
