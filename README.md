@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : below my profile's image
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I'm taller than how I look in the image :)))
+- ⚡ Fun fact: I'm actually taller than how I looked in the image :)))
 
 <!---
 NguyenChanhDat/NguyenChanhDat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
