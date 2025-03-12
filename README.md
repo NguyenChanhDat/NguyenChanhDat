@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @NguyenChanhDat
 - 👀 I’m interested in Coding, Football, Going to the Gym
 - 🌱 I’m currently studying at Da Nang University of Science and Technology
-- 💞️ I’m looking to collaborate on everything that bring the joy of coding :))
+- 💞️ I’m looking for collaboration on everything that brings the joy of coding
 - 📫 How to reach me : below my profile's image
-- 😄 Pronouns: ...
+- 😄 Pronouns: He, Him, Chad :))
 - ⚡ Fun fact: I'm actually taller than how I looked in the image :)))
 
 <!---
